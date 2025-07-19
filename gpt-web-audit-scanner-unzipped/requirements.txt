@@ -1,5 +1,0 @@
-fastapi
-openai
-uvicorn
-jinja2
-httpx
